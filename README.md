@@ -99,11 +99,6 @@ Here is a list of common Linux commands and their functions:
 - **`userdel`**: Delete a user account and related files.
 - **`passwd`**: Update a user's authentication tokens (password).
 
-### Compression
-- **`tar`**: Store and extract files from an archive file.
-- **`gzip`**: Compress files.
-- **`gunzip`**: Decompress files.
-- **`zip`**: Package and compress files.
-- **`unzip`**: Extract compressed files.
+
 
 
